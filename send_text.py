@@ -10,7 +10,7 @@ KNOWN_EMAILS = {
 }
 
 EMAIL = "text19910405@gmail.com"
-PASSWORD = "TextingPassword!"
+PASSWORD = None
 APP_PASSWORD = "vcko kgwp qsoh csas"
 
 def send_message(email, message):

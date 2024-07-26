@@ -2,7 +2,7 @@ from elevenlabs.client import ElevenLabs
 from elevenlabs import play, Voice, VoiceSettings
 import os
 
-TTSapi_key = '56ab611647efcd6a3455a1af233fe45d'
+TTSapi_key = None
 client = ElevenLabs(api_key=TTSapi_key)
 
 
